@@ -1,4 +1,4 @@
-### Hi there <img alt="Waving hand emoji" src="https://github.com/OfficialMarinho/OfficialMarinho/blob/master/waving-hand-emoji-animated.gif?raw=true" width="25px">, I'm Tao Hansen! 
+### Hi there, I'm Tao Hansen! 
 
 ## :triangular_flag_on_post: 🌱 I’m currently learning:
 - Programming languages: Java :heart:, JavaScript, Python
